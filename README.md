@@ -1,4 +1,6 @@
-## Hi there 👋
+## Aloha!
+
+Mostly self taught software engineer with a solid background in data engineering and ML applications. Currently exploring computer vision and AI projects.
 
 <!--
 **jackmead515/jackmead515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
