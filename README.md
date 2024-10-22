@@ -2,7 +2,7 @@
 
 Mostly self taught software engineer with a solid background in data engineering and ML applications. Currently exploring computer vision and AI projects.
 
-### 5 Point Summary
+### 💥 5 Point Summary 💥
 
 - 🔥 8+ years of experience in API development, architecture design, event data streaming, infrastructure and platform engineering, web application development, and NoSQL databases.
 - 📷 4+ years in data engineering, working with time series and GPS based sensor data and video/image data for ML applications.
