@@ -1,6 +1,6 @@
 ## Aloha!
 
-Mostly self taught software engineer with a solid background in data engineering and ML applications. Currently exploring computer vision and AI projects.
+Mostly self taught software engineer with a solid background in data engineering and ML applications.
 
 ### 💥 5 Point Summary 💥
 
