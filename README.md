@@ -1,6 +1,6 @@
 ## Aloha!
 
-Mostly self taught software engineer with a solid background in data engineering and ML applications.
+Mostly self taught software engineer in full stack engineering with a solid background in data engineering and CV/ML applications.
 
 ### 💥 5 Point Summary 💥
 
