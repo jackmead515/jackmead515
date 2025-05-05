@@ -2,6 +2,8 @@
 
 Mostly self taught software engineer in full stack engineering with a solid background in data engineering and CV/ML applications.
 
+Doing a lot more commits in Gitlab open-source recently... sorry Github.
+
 ### 💥 5 Point Summary 💥
 
 - 🔥 8+ years of experience in API development, architecture design, event data streaming, infrastructure and platform engineering, web application development, and SQL/NoSQL databases.
